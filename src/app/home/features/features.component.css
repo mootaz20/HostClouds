@@ -1,0 +1,36 @@
+.features-section {
+	margin-top: 160px;
+}
+.features-section .section-heading {
+	text-align: center;
+}
+.features-section .section-heading .text-primary {
+	color: aqua !important;
+    font-weight: 600;
+}
+.features-section .section-heading h2 {
+	color: #1e1e1e;
+}
+.features-section .feature-item {
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+	border-radius: 5px;
+	padding: 30px;
+	margin-bottom: 30px;
+}
+.features-section .feature-item .icon {
+	float: left;
+	margin-top: 12px;
+}
+.features-section .feature-item .icon img {
+	max-width: 80px;
+	margin-right: 30px;
+}
+.features-section .feature-item h4 {
+	font-size: 18px;
+	color: #1e1e1e;
+	letter-spacing: 0.5px;
+	font-weight: 700;
+}
+.features-section .feature-item p {
+	margin-left: 106px;
+}

@@ -1,0 +1,43 @@
+.text-primary{
+	color: aqua !important;
+	font-weight: 600;
+}
+.team-section {
+	margin-top: 140px;
+}
+.team-section .section-heading {
+	text-align: center;
+}
+.team-section .section-heading h2 {
+	color: #1e1e1e;
+}
+.team-item:hover img {
+	opacity: 0.75;
+}
+.team-item {
+	cursor: pointer;
+	margin-bottom: 30px;
+}
+.team-item img {
+	width: 100%;
+	overflow: hidden;
+	transition: all 0.5s;
+}
+.team-item .down-content {
+	background-color: #f7f7f7;
+	text-align: center;
+	padding: 30px;
+}
+.team-item h4 {
+	font-size: 19px;
+	font-weight: 700;
+	color: #1e1e1e;
+	letter-spacing: 0.5px;
+	margin-bottom: 0px;
+}
+.team-item span {
+	display: inline-block;
+	margin-top: 8px;
+	font-size: 15px;
+	color: #00bcd4;
+}
